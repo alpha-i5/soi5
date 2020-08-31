@@ -2,6 +2,30 @@
 
 ![サンプル画像](images.png)
 
+Name
+====
+Soi
+
+Overview
+No-frills tool for phot that behaves a lot like standard Twtter .
+
+## Description
+ Most existing  modules for sending HTTP requests are extremely verbose and cumbersome. Rails’s builtin module provides most of the HTTP capabilities you should need, but the design is thoroughly broken. It requires an enormous amount of work (even method overrides) to perform the simplest of tasks.
+
+## Demo
+https://gyazo.com/a9856a36295576a7c28701e1d9c5fed7 
+
+## Requirement
+Ruby/Ruby on Rails/PostgreSQL/Github/Visual Studio Code
+
+## Usage
+I enlarged the photo to make it easier to see.
+The server side is set so that only the poster can edit/delete.
+
+## Contribution
+https://soi5.herokuapp.com/
+
+
 # ・アプリ名
 Soi
 
